@@ -1,0 +1,9 @@
+.idea
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+rust-project.json
+.env*
+!.env.example
